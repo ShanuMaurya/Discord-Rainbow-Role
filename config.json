@@ -1,10 +1,10 @@
 {
-	"token": "YOUR LOGIN TOKEN HERE",
+	"token": "NDM3MjE5ODgwMTc4MDI0NDQ4.DfMngw.aiilp7si6bfKWYaEgBqm-wcPn5k",
 	"servers": [
-		"ID 1ST SERVER",
-		"ID 2ND SERVER"
+		"443008318622007296",
+		"341147740086206466"
 	],
-	"roleName": "THE ROLE NAME YOU WANT TO CHANGE ITS COLOR FROM HERE",
+	"roleName": "Dah bow",
 	"colors": 12,
 	"speed": 60000,
 	"logging": true
